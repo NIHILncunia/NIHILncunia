@@ -1,16 +1,13 @@
-### Hi there 👋
+# TECH?
 
-<!--
-**NIHILncunia/NIHILncunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Programing
+<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/></span>
+<span><img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/></span>
+<span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/></span>
+<span><img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=ffffff"/></span>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# CONTACT?
+<a href="https://www.instagram.com/nihil_illust/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
+<a href="mailto:anikai7556@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
