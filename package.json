@@ -1,0 +1,53 @@
+{
+  "name": "nihil-next-typescript-template",
+  "version": "1.0.0",
+  "description": "넥스트에서 타입스크립트 편하게 쓰려고 만든 템플릿",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIHILncunia/nihil-next-typescript-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NIHILncunia/nihil-next-typescript-template/issues"
+  },
+  "homepage": "https://github.com/NIHILncunia/nihil-next-typescript-template#readme",
+  "scripts": {
+    "serve": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "export": "next build && next export -o app/"
+  },
+  "keywords": [],
+  "author": "NIHILncunia",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@reduxjs/toolkit": "^1.6.1",
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@emotion/babel-plugin": "^11.3.0",
+    "@emotion/babel-preset-css-prop": "^11.2.0",
+    "@types/node": "^16.7.2",
+    "@types/react": "^17.0.19",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-redux": "^7.1.18",
+    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/parser": "^4.29.3",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-next": "^11.1.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "typescript": "^4.3.5"
+  }
+}
