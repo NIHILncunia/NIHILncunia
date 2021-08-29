@@ -23,12 +23,10 @@
 
 <h2 align="center">Contact</h2>
 
-<!-- <a href="https://nihilncunia.github.io/" target="_blank" rel="noreferrer noopener"> -->
-
-<!-- </a> -->
-
 <p align="center">
-  Homepage (soon)<br />
+  <a href="https://nihilncunia.github.io/" target="_blank" rel="noreferrer noopener">
+    Homepage
+  </a><br />
   <a href="https://nihilog.github.io/" target="_blank" rel="noreferrer noopener">
     Blog
   </a><br />

@@ -1,1 +1,8 @@
-# 호스팅할 파일 모아놓는 폴더
+# 니힐 홈페이지
+블로그는 있는데 메인 페이지는 없어서 뭔가 심심해서 만든 홈페이지. 앞으로 포트폴리오도 만들면 올릴 공간이 필요했는데 겸사겸사 만들었습니다. 프로젝트 새로 만들어질 때마다 업데이트할 예정입니다.
+
+<strong>
+  <a href="https://nihilncunia.github.io/" target="_blank" rel="nonoreferrer noopener">
+    홈페이지 바로가기
+  </a>
+</strong>
