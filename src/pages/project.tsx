@@ -29,7 +29,7 @@ const ProjectPage = () => {
             <Project
               title='DiceRoll'
               image='/images/projects/dice-roll.png'
-              link='https://thediceroll.githun.io/'
+              link='https://thediceroll.github.io/'
               github='https://github.com/TheDiceRoll/TheDiceRoll'
             >
               DiceRoll은 TRPG를 하면서 생각난 아이디어로 시작됐습니다. 인터넷에서 간단하게 주사위를 굴릴 수 있으면 좋겠다. 라는 생각이 들어서 만들게 된 웹 프로그램입니다. 랜덤한 숫자를 이용한다는 점에서 보잘 것 없는 간단한 프로젝트일 수도 있지만 원하던 것이 상당히 복잡한 구조라서 구현하면서 많은 것을 배웠습니다.<br /><br />

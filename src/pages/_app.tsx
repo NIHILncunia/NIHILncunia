@@ -13,6 +13,13 @@ const App = ({ Component, pageProps, }: AppProps) => (
         content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0'
       />
 
+      <meta name='robots' content='All' />
+      <meta name='robots' content='index, follow' />
+      <meta name='NaverBot' content='All' />
+      <meta name='NaverBot' content='index, follow' />
+      <meta name='Yeti' content='All' />
+      <meta name='Yeti' content='index, follow' />
+
       <link rel='shortcut icon' type='image/x-icon' href={`${config.URL}/favicon.ico`} />
       <link rel='icon' type='image/x-icon' href={`${config.URL}/favicon.ico`} />
       <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.15.4/css/all.css' />
