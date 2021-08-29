@@ -61,11 +61,13 @@
     "resolveJsonModule": true,
     "isolatedModules": true
   },
-  "include": [
-    "./src/**/*"
-  ],
   "exclude": [
     "node_modules",
     "build"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
   ]
 }

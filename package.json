@@ -1,21 +1,22 @@
 {
-  "name": "nihil-next-typescript-template",
+  "name": "nihilncunia-code",
   "version": "1.0.0",
-  "description": "넥스트에서 타입스크립트 편하게 쓰려고 만든 템플릿",
-  "main": "index.js",
+  "description": "니힐 홈페이지 원본 코드 저장소",
+  "main": "src/pages/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NIHILncunia/nihil-next-typescript-template.git"
+    "url": "git+https://github.com/NIHILncunia/NIHILncunia.git"
   },
   "bugs": {
-    "url": "https://github.com/NIHILncunia/nihil-next-typescript-template/issues"
+    "url": "https://github.com/NIHILncunia/NIHILncunia/issues"
   },
-  "homepage": "https://github.com/NIHILncunia/nihil-next-typescript-template#readme",
+  "homepage": "https://github.com/NIHILncunia/NIHILncunia#readme",
   "scripts": {
-    "serve": "next dev",
-    "start": "next start",
-    "build": "next build",
-    "export": "next build && next export -o app/"
+    "serve": "rm -rf node_modules/.cache && rm -rf build/ && next dev",
+    "start": "rm -rf node_modules/.cache && rm -rf build/ && next start",
+    "build": "rm -rf node_modules/.cache && rm -rf build/ && next build",
+    "export": "rm -rf node_modules/.cache && rm -rf build/ && next build && next export -o nihilncunia.github.io/ && touch nihilncunia.github.io/.nojekyll && cd ../nihilncunia.github.io && mv .git ../backup && cd ../ && rm -rf nihilncunia.github.io && cd nihilncunia-code && mv nihilncunia.github.io ../ && cd ../backup && mv .git ../nihilncunia.github.io && cd ../nihilncunia.github.io && git config core.autocrlf true && git add .",
+    "clean": "npm cache clean --force"
   },
   "keywords": [],
   "author": "NIHILncunia",
@@ -35,10 +36,11 @@
     "@babel/core": "^7.15.0",
     "@emotion/babel-plugin": "^11.3.0",
     "@emotion/babel-preset-css-prop": "^11.2.0",
-    "@types/node": "^16.7.2",
+    "@types/node": "^16.7.4",
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9",
     "@types/react-redux": "^7.1.18",
+    "@types/uuid": "^8.3.1",
     "@typescript-eslint/eslint-plugin": "^4.29.3",
     "@typescript-eslint/parser": "^4.29.3",
     "eslint": "^7.32.0",
@@ -48,6 +50,6 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.2"
   }
 }
