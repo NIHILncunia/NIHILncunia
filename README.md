@@ -7,12 +7,15 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <br />
+  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff"/>
 </p>
 
 <h3 align="center">Back-end</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff" />
 </p>
 
 <h3 align="center">Front-end</h3>
